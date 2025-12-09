@@ -1,48 +1,46 @@
 {
   "coord": {
-    "lon": -49.4858,
-    "lat": -28.9347
+    "lon": -0.1257,
+    "lat": 51.5085
   },
   "weather": [
     {
-      "id": 500,
-      "main": "Rain",
-      "description": "light rain",
-      "icon": "10d"
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 21.19,
-    "feels_like": 21.85,
-    "temp_min": 21.19,
-    "temp_max": 21.19,
-    "pressure": 1006,
-    "humidity": 95,
-    "sea_level": 1006,
-    "grnd_level": 1005
+    "temp": 14.02,
+    "feels_like": 13.62,
+    "temp_min": 13.34,
+    "temp_max": 14.49,
+    "pressure": 1002,
+    "humidity": 82,
+    "sea_level": 1002,
+    "grnd_level": 998
   },
   "visibility": 10000,
   "wind": {
-    "speed": 2.49,
-    "deg": 44,
-    "gust": 9.07
-  },
-  "rain": {
-    "1h": 0.14
+    "speed": 5.66,
+    "deg": 170
   },
   "clouds": {
-    "all": 100
+    "all": 75
   },
-  "dt": 1765276272,
+  "dt": 1765283173,
   "sys": {
-    "country": "BR",
-    "sunrise": 1765267944,
-    "sunset": 1765318118
+    "type": 2,
+    "id": 2075535,
+    "country": "GB",
+    "sunrise": 1765266848,
+    "sunset": 1765295514
   },
-  "timezone": -10800,
-  "id": 3471772,
-  "name": "Araranguá",
+  "timezone": 0,
+  "id": 2643743,
+  "name": "London",
   "cod": 200,
-  "_last_updated_utc": "2025-12-09T10:31:12.257Z"
+  "_last_updated_utc": "2025-12-09T12:30:30.761Z"
 }
