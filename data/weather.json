@@ -1,0 +1,48 @@
+{
+  "coord": {
+    "lon": -49.4858,
+    "lat": -28.9347
+  },
+  "weather": [
+    {
+      "id": 500,
+      "main": "Rain",
+      "description": "light rain",
+      "icon": "10d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 21.19,
+    "feels_like": 21.85,
+    "temp_min": 21.19,
+    "temp_max": 21.19,
+    "pressure": 1006,
+    "humidity": 95,
+    "sea_level": 1006,
+    "grnd_level": 1005
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2.49,
+    "deg": 44,
+    "gust": 9.07
+  },
+  "rain": {
+    "1h": 0.14
+  },
+  "clouds": {
+    "all": 100
+  },
+  "dt": 1765276272,
+  "sys": {
+    "country": "BR",
+    "sunrise": 1765267944,
+    "sunset": 1765318118
+  },
+  "timezone": -10800,
+  "id": 3471772,
+  "name": "Araranguá",
+  "cod": 200,
+  "_last_updated_utc": "2025-12-09T10:31:12.257Z"
+}
