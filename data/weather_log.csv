@@ -232,3 +232,5 @@ timestamp,city,temperature,description
 2025-12-18T16:17:43.519Z,London,11.39,moderate rain
 2025-12-18T18:19:10.962Z,London,11.86,overcast clouds
 2025-12-18T18:19:10.964Z,London,11.76,overcast clouds
+2025-12-18T20:13:25.032Z,London,11.86,broken clouds
+2025-12-18T20:13:25.034Z,London,11.86,broken clouds
