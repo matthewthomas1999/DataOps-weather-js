@@ -440,3 +440,5 @@ timestamp,city,temperature,description
 2025-12-27T08:16:24.335Z,London,2.77,clear sky
 2025-12-27T10:12:11.051Z,London,5.08,clear sky
 2025-12-27T10:12:11.053Z,London,5.08,clear sky
+2025-12-27T12:22:34.462Z,London,7.03,broken clouds
+2025-12-27T12:22:34.464Z,London,7.03,broken clouds
