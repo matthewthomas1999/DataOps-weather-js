@@ -1080,3 +1080,5 @@ timestamp,city,temperature,description
 2026-01-23T01:02:28.121Z,London,7.53,broken clouds
 2026-01-23T03:25:43.868Z,London,7.05,broken clouds
 2026-01-23T03:25:43.871Z,London,7.05,broken clouds
+2026-01-23T04:35:06.678Z,London,6.95,broken clouds
+2026-01-23T04:35:06.680Z,London,6.95,broken clouds
