@@ -3393,3 +3393,5 @@ timestamp,city,temperature,description
 2026-05-08T05:50:50.851Z,London,8.58,broken clouds
 2026-05-08T07:15:25.428Z,London,10.92,broken clouds
 2026-05-08T07:15:25.430Z,London,10.92,broken clouds
+2026-05-08T09:04:40.711Z,London,15,scattered clouds
+2026-05-08T09:04:40.714Z,London,15,scattered clouds
